@@ -1,213 +1,156 @@
-# <h1 align="center">Hi 👋, I'm Reyansh Chandak</h1>
+<h1 align="center">Hi 👋, I'm Reyansh Chandak</h1>
 
-<h3 align="center">
-🚀 AI/ML Engineer • DevOps Enthusiast • Cloud Explorer • Backend Developer
-</h3>
+<h3 align="center">🚀 AI • Cloud • DevOps • Backend • Machine Learning</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%A7%A0;DevOps+%26+Cloud+Engineer+%E2%98%81%EF%B8%8F;Docker+%7C+Kubernetes+%7C+AWS;Building+Production+Ready+Applications+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+AI+Applications+%F0%9F%A4%96;Deploying+on+Docker+%26+Kubernetes+%E2%98%B8%EF%B8%8F;Cloud+Engineer+in+the+Making+%E2%98%81%EF%B8%8F;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ReyRox2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ReyRox2005?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/ReyRox2005?style=for-the-badge"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ReyRox2005&style=for-the-badge&color=blue)](https://github.com/ReyRox2005)
+[![GitHub followers](https://img.shields.io/github/followers/ReyRox2005?style=for-the-badge)](https://github.com/ReyRox2005)
+[![GitHub stars](https://img.shields.io/github/stars/ReyRox2005?style=for-the-badge)](https://github.com/ReyRox2005)
+
 </p>
 
 ---
 
 # 💫 About Me
 
-<img align="right" height="270" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 B.Tech Computer Science Engineering student passionate about **AI, DevOps, Cloud and Backend Engineering**.
 
-💼 Looking for **Software Engineering**, **AI/ML**, **Backend**, **Cloud** and **DevOps** Internship opportunities.
+Instead of stopping after building an ML model, I enjoy taking it all the way to production.
 
-🚀 Passionate about building applications that don't just work locally—but scale on the cloud.
+From developing **RAG-based AI applications** to containerizing them with **Docker**, deploying them on **Amazon EKS**, configuring **Helm Charts**, setting up **Ingress**, managing **Persistent Volumes**, and automating deployments through **CI/CD**, I enjoy working across the complete software lifecycle.
 
-💡 I love combining
+### 🚀 Currently Building
 
-* 🤖 Artificial Intelligence
-* 🧠 Large Language Models
-* ☁️ AWS Cloud
-* 🐳 Docker
-* ☸️ Kubernetes
-* ⚙️ CI/CD
-* 🚀 Backend Engineering
-
-into complete production-ready projects.
-
----
-
-### 🔭 Currently Building
-
-🚀 AI powered RAG Applications
-
-☸️ Kubernetes Deployments
-
-🐳 Dockerized Applications
-
-☁️ AWS Infrastructure
-
-⚙️ Jenkins & GitHub Actions Pipelines
-
-🤖 LLM Powered Systems
-
----
+- 🤖 AI Applications powered by LLMs
+- ☸ Kubernetes Deployments
+- ☁ AWS Cloud Infrastructure
+- 🐳 Dockerized Applications
+- ⚙ Jenkins & GitHub Actions Pipelines
+- 🔍 Retrieval Augmented Generation (RAG)
 
 ### 🌱 Currently Learning
 
-🧠 MLOps
+- Kubernetes (Advanced)
+- Terraform
+- System Design
+- MLOps
+- Distributed Systems
+- Cloud Architecture
 
-☸️ Advanced Kubernetes
+### 🎯 2026 Goals
 
-🏗️ System Design
+- 💼 Land an amazing internship
+- ☁ Become AWS Certified
+- ☸ Master Kubernetes
+- 🚀 Contribute to Open Source
+- 🤖 Build production-grade AI platforms
 
-🌍 Distributed Systems
-
-📦 Terraform
-
-🚀 Microservices
-
----
-
-### ⚡ Fun Facts
-
-✨ I enjoy debugging Kubernetes clusters more than writing CSS 😄
-
-☕ Coffee + Music = Productive Coding
-
-🎯 My goal is to become an engineer who can build, deploy and scale complete AI systems.
+> **"I don't just build AI models—I build systems that can run, scale and serve real users."**
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-
-<a href="mailto:reyanshchandak289@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/reyansh-chandak">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/reyansh_rox">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<a href="mailto:reyanshchandak289@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/reyansh-chandak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/reyansh_rox"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Arsenal
 
-## 👨‍💻 Languages
+### 🤖 AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+Python • TensorFlow • PyTorch • Scikit-Learn • NumPy • Pandas • SciPy • Matplotlib • Plotly • LlamaIndex • Ollama • HuggingFace • RAG
 
----
+### ☁ Cloud & DevOps
 
-## 🤖 Artificial Intelligence & Machine Learning
+AWS • Docker • Kubernetes • Helm • Jenkins • GitHub Actions • NGINX • Linux • Git
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly)
+### 🌐 Backend
 
----
+FastAPI • Streamlit • REST APIs
 
-## 🧠 LLM & GenAI
+### 🗄 Databases
 
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge\&logo=huggingface)
-![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-success?style=for-the-badge)
-
----
-
-## ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge\&logo=nginx)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-
----
-
-## 🌐 Backend & Database
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge\&logo=streamlit)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+MongoDB • MySQL • Firebase
 
 ---
 
 # 🚀 Featured Projects
 
-🧠 **CampusVibe**
+## 🧠 CampusVibe
 
-> AI-powered RAG platform using **LlamaIndex, Ollama, MongoDB, Firebase, Docker & Kubernetes**.
+> AI-powered university assistant built using Retrieval-Augmented Generation.
 
-☁️ **Cloud Native Deployment**
+✨ Highlights
 
-> Containerized applications deployed on **Amazon EKS** using **Helm**, **Ingress**, **Persistent Volumes**, **AWS Load Balancer Controller**, and **CI/CD pipelines**.
-
-😊 **Mental Health Predictor**
-
-> Machine Learning web application using **Random Forest**, **PHQ-9**, **GAD-7**, and **Streamlit**.
-
-☀️ **Solar Powered Intelligent Dewatering System**
-
-> IoT-enabled renewable energy solution integrating smart automation with solar-powered water management.
+- 📚 LlamaIndex + Ollama
+- 🔎 Semantic Search
+- ☁ MongoDB Atlas
+- 🔥 Firebase Storage
+- 🐳 Docker
+- ☸ Kubernetes
+- 🚀 Amazon EKS
+- 📦 Helm
 
 ---
 
-# 📊 GitHub Analytics
+## 😊 Mental Health Predictor
 
-![](https://github-readme-stats.vercel.app/api?username=ReyRox2005\&theme=tokyonight\&show_icons=true\&hide_border=true\&count_private=true)
+Interactive ML application that predicts wellness using PHQ-9 & GAD-7 with an intuitive Streamlit dashboard.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ReyRox2005\&theme=tokyonight\&hide_border=true)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyRox2005\&layout=compact\&theme=tokyonight\&hide_border=true)
+## ☀ Solar Powered Intelligent Dewatering System
+
+IoT-based renewable energy project integrating solar power with smart automation.
+
+---
+
+# 📈 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=ReyRox2005&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ReyRox2005&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyRox2005&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ReyRox2005\&theme=algolia\&no-frame=true\&margin-w=15\&row=2\&column=4)
+![](https://github-profile-trophy.vercel.app/?username=ReyRox2005&theme=algolia&no-frame=true&row=2&column=4)
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ReyRox2005\&theme=tokyo-night)
-
----
-
-# 🐍 Snake Eating My Contributions
-
-![Snake animation](https://github.com/ReyRox2005/ReyRox2005/blob/output/github-contribution-grid-snake-dark.svg)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ReyRox2005&theme=tokyo-night)
 
 ---
+
+## ⚡ Philosophy
+
+```python
+while True:
+    learn()
+    build()
+    deploy()
+    break_things()
+    fix_things()
+    repeat()
+```
 
 <p align="center">
-⭐ <b>"Building AI. Scaling with Cloud. Automating with DevOps."</b> ⭐
+⭐ Thanks for visiting my profile! ⭐
 </p>
