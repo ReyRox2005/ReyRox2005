@@ -1,21 +1,243 @@
-# 💫 About Me:
-I am currently looking for an internship<br>I am looking to learn and work with tech companies that help me grow in my field<br>I am currently pursuing B.Tech. and learning about AI/ML models.
+# 👋 Hi, I'm Reyansh Chandak
 
+🚀 **B.Tech Computer Science Engineering Student | AI/ML Engineer | DevOps & Cloud Enthusiast**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reyansh_rox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reyansh-chandak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reyanshchandak289@gmail.com) 
+I'm a Computer Science undergraduate passionate about building scalable software, AI-powered applications, and cloud-native infrastructure. I enjoy combining Machine Learning with DevOps practices to create production-ready applications rather than just research prototypes.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ReyRox2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ReyRox2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyRox2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ReyRox2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently, I'm looking for internship opportunities where I can contribute to real-world projects, collaborate with experienced engineers, and continue learning modern software engineering practices.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ReyRox2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+* 🎓 B.Tech Computer Science Engineering Student
+* 💼 Looking for Software Engineering / AI-ML / DevOps Internship Opportunities
+* 🌱 Currently learning:
+
+  * Kubernetes
+  * Helm
+  * AWS Cloud
+  * CI/CD Pipelines
+  * MLOps
+  * Large Language Models (LLMs)
+  * Retrieval-Augmented Generation (RAG)
+* 💡 Interested in:
+
+  * Artificial Intelligence
+  * Machine Learning
+  * Backend Development
+  * Cloud Computing
+  * DevOps
+  * Distributed Systems
+* 🎯 Goal: Build production-grade AI systems that can scale on cloud infrastructure.
+
+---
+
+# 💻 Technical Skills
+
+### Programming Languages
+
+* Python
+* C
+* C++
+* SQL
+* HTML
+
+### AI / Machine Learning
+
+* Scikit-Learn
+* TensorFlow
+* PyTorch
+* NumPy
+* SciPy
+* Matplotlib
+* Plotly
+* Pandas
+* Random Forest
+* Logistic Regression
+* Decision Trees
+* Naive Bayes
+* PCA
+* SVD
+* K-Means Clustering
+
+### Large Language Models
+
+* LlamaIndex
+* Ollama
+* Hugging Face
+* Sentence Transformers
+* RAG Architecture
+* Embeddings
+* Prompt Engineering
+
+### Backend Development
+
+* FastAPI
+* Streamlit
+* REST APIs
+
+### Databases
+
+* MongoDB
+* MySQL
+* Firebase
+
+### DevOps & Cloud
+
+* Docker
+* Kubernetes
+* Helm
+* AWS EC2
+* Amazon EKS
+* AWS IAM
+* AWS Load Balancer Controller
+* EBS CSI Driver
+* Horizontal Pod Autoscaler (HPA)
+* Cluster Autoscaler
+* GitHub Actions
+* Jenkins
+* NGINX Ingress
+
+### Version Control
+
+* Git
+* GitHub
+
+---
+
+# 🚀 Projects
+
+## 🧠 CampusVibe – AI Knowledge Assistant
+
+A Retrieval-Augmented Generation (RAG) platform built for university students that enables intelligent querying over uploaded academic documents.
+
+### Features
+
+* User Authentication
+* Document Upload
+* PDF Processing
+* Vector Embeddings
+* Semantic Search
+* AI Question Answering
+* MongoDB Integration
+* Firebase Storage
+* Streamlit Frontend
+* Local LLM Inference
+
+### Tech Stack
+
+* Python
+* Streamlit
+* MongoDB Atlas
+* Firebase
+* LlamaIndex
+* Hugging Face Embeddings
+* Ollama
+* Llama 3
+* Docker
+* Kubernetes
+
+---
+
+## 😊 Mental Health Prediction System
+
+An ML-powered web application that predicts user wellness using standardized PHQ-9 and GAD-7 assessments.
+
+### Features
+
+* Mental Health Assessment
+* Happiness Score Prediction
+* Data Visualization
+* Machine Learning Model
+* Interactive Dashboard
+
+Tech Used:
+
+* Python
+* Scikit-Learn
+* Streamlit
+* Pandas
+* Matplotlib
+
+---
+
+## ☀ Solar Powered Intelligent Dewatering System
+
+An IoT-enabled engineering solution combining renewable energy with smart automation for water management.
+
+### Features
+
+* Solar Powered Pump
+* Variable Frequency Drive (VFD)
+* IoT Monitoring
+* Smart Water Management
+* Energy Efficient Design
+
+---
+
+# ☁ Cloud & DevOps Experience
+
+I have hands-on experience deploying containerized applications on Kubernetes using AWS.
+
+Worked with:
+
+* Docker containerization
+* Kubernetes Deployments
+* Services
+* ConfigMaps
+* Secrets
+* Persistent Volumes
+* Persistent Volume Claims
+* Ingress Controllers
+* Helm Charts
+* Amazon EKS
+* AWS IAM Roles
+* Cluster Autoscaler
+* Horizontal Pod Autoscaler
+* AWS Load Balancer Controller
+* GitHub Actions
+* Jenkins Pipelines
+
+I enjoy troubleshooting Kubernetes deployments and understanding how production systems operate behind the scenes.
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Kubernetes
+* Terraform
+* MLOps
+* CI/CD Best Practices
+* AWS Services
+* Distributed Systems
+* Microservices Architecture
+* System Design
+
+---
+
+# 🤝 Let's Connect
+
+* 📧 Email: **[reyanshchandak289@gmail.com](mailto:reyanshchandak289@gmail.com)**
+* 💼 LinkedIn: **linkedin.com/in/reyansh-chandak**
+* 📷 Instagram: **@reyansh_rox**
+
+---
+
+# 📈 GitHub Goals
+
+I use GitHub to document my learning journey, contribute to open-source projects, and build practical applications across AI, Cloud, and DevOps.
+
+My repositories focus on:
+
+* Artificial Intelligence
+* Machine Learning
+* Cloud Computing
+* Kubernetes
+* Docker
+* DevOps
+* Automation
+* Backend Development
+* Full Stack Projects
+
+Always learning. Always building. 🚀
